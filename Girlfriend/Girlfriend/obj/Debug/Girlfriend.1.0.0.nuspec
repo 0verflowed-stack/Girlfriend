@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Girlfriend</id>
+    <version>1.0.0</version>
+    <title>Girlfriend</title>
+    <authors>overflowed-stack</authors>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <icon>girlfriend.jpg</icon>
+    <readme>README.md</readme>
+    <description>Library that adds you an ability to get a girlfriend</description>
+    <tags>girlfriend date get a girlfriend</tags>
+    <repository type="git" url="https://github.com/overflowed-stack/Girlfriend" />
+    <dependencies>
+      <group targetFramework=".NETStandard2.1" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\spayd\OneDrive\Робочий стіл\temp\Girlfriend\Girlfriend\Girlfriend\bin\Debug\netstandard2.1\Girlfriend.dll" target="lib\netstandard2.1\Girlfriend.dll" />
+    <file src="C:\Users\spayd\OneDrive\Робочий стіл\girlfriend.jpg" target="\girlfriend.jpg" />
+    <file src="C:\Users\spayd\OneDrive\Робочий стіл\temp\Girlfriend\README.md" target="\README.md" />
+  </files>
+</package>

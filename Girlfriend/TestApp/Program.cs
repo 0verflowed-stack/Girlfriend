@@ -1,11 +1,4 @@
-# Girlfriend
-## Library that adds you an ability to get a boyfriend.
-
-Install as a NuGet package named 'Girlfriend'.
-
-Usage example:
-``` C#
-using MyGirlfriend = Girlfriend.Girlfriend;
+﻿using MyGirlfriend = Girlfriend.Girlfriend;
 using HandHold = Girlfriend.HoldHand;
 
 MyGirlfriend Iryna = new MyGirlfriend();
@@ -21,4 +14,3 @@ Iryna.CheatOn();
 Iryna.GetMarried();
 Iryna.CheatOn();
 Iryna.GetDivorce();
-```
